@@ -1,5 +1,5 @@
 # OS_xv6_Scheduling-Algorithm
-Soongsil University. Operating System 2020-2 - Project : Scheduling Algorithm
+Soongsil University. Operating System 2020-2 - Project#3 : Scheduling Algorithm
 
 xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix Version 6 (v6).
 
