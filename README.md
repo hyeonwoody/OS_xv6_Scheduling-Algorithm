@@ -15,4 +15,4 @@ xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix Version 6
 
 – **proc.h** contains the struct proc structure.
 
-– **proc.c** contains the function scheduler performing scheduling and context switching between processes. 
+– **proc.c** contains the function scheduler performing scheduling and context switching between processes.
