@@ -3,7 +3,7 @@ Soongsil University. Operating System 2020-2 - Assignment#3 : Processes and Sche
 
 xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix Version 6 (v6).
 
-– **user.h** contains the system call definitions in xv6. You will need to add code here for your new system calls.
+– **user.h** contains the system call definitions in xv6. 
 
 – **usys.S** contains a list of system calls exported by the kernel.
 
