@@ -10,7 +10,7 @@
 |syscall.c|⭐|사용자 프로그램과 커널 프로그램을 연결하는 시스템 호출 함수 포인터를 선언|
 |sysproc.c|⭐⭐|사용자 프로그램과 커널 프로그램을 연결하는 시스템 호출 함수 포인터를 선언|
 |processinfo.h|⭐|메모리 크기(sz) pid, ppid, 문맥교환 횟수(numberContextSwitches)를 멤버로 선언|
-|proc.h|⭐|proc 구조체에서 우선순위(prio)와 문맥교환 횟수(numberContextSwitches)를 멤버로 선언|
+|proc.h|⭐|proc 구조체에서 우선순위(prio)와 문맥교환 횟수를 멤버로 선언|
 |proc.c|⭐⭐⭐| scheduler() 스케쥴러를 우선순위에 따라 스케쥴하기 위해 수정<br>allocproc()에서 프로세스의 우선순위 값과 문맥교환 횟수를 초기화<br>Swtch()가 호출 된 후에 문맥교환 횟수를 증가<br>그 밖의 여러가지 proc과 관련된 시스템 호출을 구현|
 
 <br>
